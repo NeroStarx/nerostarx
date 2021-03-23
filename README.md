@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
+<p> <img src="https://github-readme-stats.vercel.app/api?username=nerostarx&show_icons=true" alt="nerostarx" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=nerostarx" alt="nerostarx" /> </p>
