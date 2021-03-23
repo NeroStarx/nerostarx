@@ -1,11 +1,17 @@
-### Hi there 👋
+### Hi there 👋 welcome to nerostarx, A whole differente world of creativity
+#### 🔭 I’m currently working on a new mobile project
+#### 🌱 Currently learning backend dev using <a href="https://deno.land">deno</a>
+#### ⚡ Aspiring to be a full-stack mobile developper
+<br>
 
+<p> <img src="https://github-readme-stats.vercel.app/api?username=nerostarx&show_icons=true" alt="nerostarx" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nerostarx" alt="nerostarx" /> </p>
 <!--
 **NeroStarx/nerostarx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,5 +21,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
-<p> <img src="https://github-readme-stats.vercel.app/api?username=nerostarx&show_icons=true" alt="nerostarx" /> </p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=nerostarx" alt="nerostarx" /> </p>
