@@ -3,7 +3,7 @@
 😄 Pronouns: Haroune, Aaron, Nerox <br />
 :robot: My work: Mobile Experiences designer :writing_hand: and Android developer :green_heart:<br />
 🔭 I’m currently working on my next big android app :white_flower: <br />
-:small_orange_diamond: I’m currently learning <a href="ktor.io" >Kotlin Ktor</a> <br />
+:small_orange_diamond: I’m currently learning <a href="https://ktor.io" target="_blank">Kotlin Ktor</a> <br />
 <!--
 **NeroStarx/nerostarx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
